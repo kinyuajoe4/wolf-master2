@@ -1,0 +1,22 @@
+{
+  "name": "wolf",
+  "version": "3.6.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --exit",
+    "start": "node .",
+    "simulator": "mocha simulator.js --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-api-node": "^0.5.0",
+    "dotenv": "^4.0.0",
+    "node-binance-api": "^0.3.6",
+    "ora": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
