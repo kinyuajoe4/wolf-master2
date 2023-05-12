@@ -29,7 +29,7 @@ IT IS NOT MY RESPONSIBILITY IF YOU GAIN/LOSE ANY MONEY.  THERE IS NO SUCH THING 
 - BUGFIX: quantitySigFig() for USDT now correctly returns a non-negative number https://github.com/austinyearlykim/wolf/issues/40
 
 `v3.4.1` May 22, 2018
-- BUGFIX: mocha, available balance, test fixed. https://github.com/austinyearlykim/wolf/issues/38
+- BUGFIX: mocha, available balance,, test fixed. https://github.com/austinyearlykim/wolf/issues/38
 - Corrects `template.env`.
 - Deprecated `STOP_LOSS_PERCENTAGE` from `.env`
 
