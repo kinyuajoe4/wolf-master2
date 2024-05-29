@@ -99,7 +99,7 @@ Limit Sell Order was PLACED.
 Limit Sell Order was FILLED.
 
 ### Issues?
-Open up a ticket here to have a question answered or to report a bug: https://github.com/austinyearlykim/wolf/issues
+incase of any issue reach out to me at josendungu.k42@gmail.com x:@darekarryis
 
 ### Donations
     BTC: 13w2zLgzpEfY8o3QYGzdCP1M6qXN9gwn62
@@ -107,6 +107,4 @@ Open up a ticket here to have a question answered or to report a bug: https://gi
     ETH: 0x8140fd88fe77907eb96ceb7850751576da214715
 Be sure to reach out to me to get listed here after you've made a donation!  No donation is too big or small, but >.001btc to get listed as a supporter!  Successful pull requests get you there too!
 
-### Supporters
- - Chase Reid (@Chase-Reid)
- - @BatmanPDX
+
