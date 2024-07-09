@@ -12,37 +12,37 @@ IT IS NOT MY RESPONSIBILITY IF YOU GAIN/LOSE ANY MONEY.  THERE IS NO SUCH THING 
 6. `npm start`
 
 ### Release Notes
-`v3.6.1` June 13, 2018
+`v3.6.1` June 13, 2020
 - Refactored watchlist
 
-`v3.6.0` June 12, 2018
+`v3.6.0` June 12, 2020
 - FEATURE REQUEST: Better terminal logging that doesn't make you want to throw up. https://github.com/austinyearlykim/wolf/issues/32
 - README.md updates
 
-`v3.5.0` May 27, 2018
+`v3.5.0` May 27, 2020
 - FEATURE: full integration test suite! `npm run simulation`.  Feel free to run it as many times as you like, it will only mimic orders, and never create a real one.
 
 - BUGFIX: stop limit now properly triggers. https://github.com/austinyearlykim/wolf/issues/41
 - BUGFIX: quantitySigFig() now properly checks against correct references from binanace websocket. https://github.com/austinyearlykim/wolf/issues/50
 
-`v3.4.2` May 23, 2018
+`v3.4.2` May 23, 2020
 - BUGFIX: quantitySigFig() for USDT now correctly returns a non-negative number https://github.com/austinyearlykim/wolf/issues/40
 
-`v3.4.1` May 22, 2018
+`v3.4.1` May 22, 2020
 - BUGFIX: mocha, available balance,, test fixed. https://github.com/austinyearlykim/wolf/issues/38
 - Corrects `template.env`.
 - Deprecated `STOP_LOSS_PERCENTAGE` from `.env`
 
-`v3.4.0` May 19, 2018
+`v3.4.0` May 19, 2020
 - FEATURE REQUEST: Adds support for `USDT` and `BNB`. https://github.com/austinyearlykim/wolf/issues/27
 - `TRADING_PAIR` in `.env` is now deprecated.  Replaced by `TARGET_ASSET` and `BASE_ASSET`.
 - `TWILIO_ENABLED` and all other Twilio related variables are deprecated.  It may be back in the future. PR anybody?
 
-`v3.3.0` March 26, 2018
+`v3.3.0` March 26, 2020
 - FEATURE: adds profit lock feature.
 - FEATURE: adds stop limit feature.
 
-`v3.2.0` March 10, 2018
+`v3.2.0` March 10, 2020
 - FEATURE REQUEST: compounding budget feature. https://github.com/austinyearlykim/wolf/issues/2
 - Adds release notes to README.md.
 
